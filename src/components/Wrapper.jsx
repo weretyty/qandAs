@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import backg from "/images/wm3.jpg"; //
+import backg from "/images/wm5.jpg"; //
 
 const Wrapper = ({children}) => {
   return (

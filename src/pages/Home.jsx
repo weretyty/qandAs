@@ -26,7 +26,7 @@ const Home = () => {
   return (
     <Wrapper>
       <div className="mx-auto w-full p-8 h-screen flex flex-col items-center justify-center gap-6">
-        <div className="bg-yellow-200 w-[80%] h-fit border-2 border-slate-900 rounded-xl text-slate-900 text-2xl font-semibold py-8 px-3 text-center">
+        <div className="bg-yellow-200 w-[80%] h-fit border-2 border-slate-900 rounded-xl text-slate-900 text-3xl font-semibold py-6 px-3 text-center">
           What was the old name of the United Kingdom?
         </div>
         <div className="h-[200px] w-[80%] p-2 flex flex-col gap-2">
