@@ -12,7 +12,7 @@ const Wrapper = ({children}) => {
       }}
       className="relative h-screen w-full"
     >
-      <div className="absolute inset-0 bg-black bg-opacity-40" />
+      <div className="absolute inset-0 bg-black bg-opacity-20" />
 
       <div className="relative z-10 text-white">{children}</div>
     </div>
