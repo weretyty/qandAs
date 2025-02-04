@@ -29,7 +29,7 @@ const Home = () => {
         <div className="h-[200px] w-[90%] p-2 flex flex-col gap-2">
           <Option optionName="A" text="One" />
           <Option optionName="B" text="Two" />
-          <Option optionName="C" text="Zero, she's crazy" />
+          <Option optionName="C" text="She's crazy" />
         </div>
 
         {/* SLIDER */}
