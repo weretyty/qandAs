@@ -1,0 +1,18 @@
+@tailwind base;
+html {
+  scroll-behavior: smooth;
+}
+
+/* .noSelect {
+  -webkit-tap-highlight-color: none;
+  -webkit-touch-callout: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
+
+.noSelect:focus {
+  outline: none !important;
+} */
+@tailwind components;
+@tailwind utilities;
