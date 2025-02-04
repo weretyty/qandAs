@@ -24,12 +24,12 @@ const Home = () => {
     <Wrapper>
       <div className="mx-auto w-full p-8 h-screen flex flex-col items-center justify-center gap-6">
         <div className="bg-yellow-200 w-[90%] h-fit border-2 border-slate-900 rounded-xl text-slate-900 text-3xl font-semibold py-6 px-3 text-center">
-          What was the old name of the United Kingdom?
+          How many children does Bolu have?
         </div>
         <div className="h-[200px] w-[90%] p-2 flex flex-col gap-2">
-          <Option optionName="A" text="Albion" />
-          <Option optionName="B" text="British" />
-          <Option optionName="C" text="England" />
+          <Option optionName="A" text="One" />
+          <Option optionName="B" text="Two" />
+          <Option optionName="C" text="Zero, she's crazy" />
         </div>
 
         {/* SLIDER */}
